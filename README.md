@@ -36,7 +36,7 @@ To use inside QUnit:
 
 ```javascript
 //= require sinon/sinon-1.5.0
-//= require sinon/adapter/sinon-qunit-1.5.0
+//= require sinon/adapter/sinon-qunit-1.0.0
 ```
 
 ## Contribution
