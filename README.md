@@ -29,13 +29,13 @@ To use only the core sinon.js features, add this line at the top of
 your JS tests manifest:
 
 ```javascript
-//= require sinon/sinon-1.5.0
+//= require sinon/sinon-1.17.3
 ```
 
 To use inside QUnit:
 
 ```javascript
-//= require sinon/sinon-1.5.0
+//= require sinon/sinon-1.17.3
 //= require sinon/adapter/sinon-qunit-1.0.0
 ```
 
